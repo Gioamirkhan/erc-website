@@ -1,0 +1,87 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Academic Publishing - ERC</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<a href="index.html" class="title">ERC</a>
+				<nav>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="academicliteracy.html">Academic Literacy</a></li>
+						<li><a href="productivity.html">Productivity</a></li>
+						<li><a href="publishing.html" class="active">Academic Publishing</a></li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main" class="wrapper">
+						<div class="inner">
+							<h1 class="major">Academic Publishing</h1>
+							<span class="image fit"><img src="images/pic04.jpg" alt="" /></span>
+							<p><strong>Guiding learners through the process of academic publishing, from selecting journals to writing, submitting, and peer review. Equipping learners with essential skills to navigate scholarly publishing and share their research effectively.</strong></p>
+							
+							<p>Academic publishing can feel overwhelming, especially for early-career researchers and graduate students. We break down the publishing process into manageable steps, providing practical guidance and support at each stage of your publishing journey.</p>
+							
+							<p>Our approach demystifies scholarly publishing by combining theoretical understanding with hands-on practice. We help researchers develop both the technical skills and strategic thinking needed to successfully share their work with the academic community.</p>
+							
+							<h2>Journal Selection and Research Strategy</h2>
+							<p>Choosing the right journal is crucial for publication success. We guide researchers through evaluating journals based on scope, impact, audience, and publication practices. This includes understanding journal metrics, identifying appropriate venues for different types of research, and developing a strategic approach to manuscript submission.</p>
+							
+							<h2>Manuscript Development and Writing</h2>
+							<p>We support researchers in structuring their work for publication, from developing compelling abstracts to crafting clear methodologies and presenting results effectively. Our guidance covers adapting research for different publication formats, writing for specific audiences, and ensuring manuscripts meet scholarly standards.</p>
+							
+							<h2>Submission Process Navigation</h2>
+							<p>The submission process involves multiple steps that can vary significantly between publishers. We provide practical support in preparing submission materials, understanding journal requirements, formatting manuscripts appropriately, and managing the technical aspects of online submission systems.</p>
+							
+							<h2>Peer Review and Revision</h2>
+							<p>Understanding peer review is essential for publication success. We help researchers interpret reviewer feedback constructively, develop effective revision strategies, and communicate with editors professionally. This includes learning to address criticism positively and strengthen manuscripts through the review process.</p>
+							
+							<h2>Publication Ethics and Best Practices</h2>
+							<p>Ethical publishing practices are fundamental to scholarly integrity. We cover topics including authorship guidelines, citation practices, data sharing requirements, and avoiding predatory publishers. Researchers learn to navigate ethical considerations while building sustainable publishing practices.</p>
+							
+							<h2>Career Development Through Publishing</h2>
+							<p>Academic publishing serves broader career development goals. We help researchers understand how publication fits into their overall academic trajectory, develop publication portfolios, and use scholarly writing to build professional networks and establish expertise in their fields.</p>
+							
+							<p>Through workshops, individual consultations, and ongoing mentorship, we support researchers at all levels in developing the confidence and competence needed to share their work effectively with scholarly communities. Our goal is to help researchers not just publish successfully, but to develop sustainable practices for ongoing scholarly communication.</p>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Education Research and Consulting. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
